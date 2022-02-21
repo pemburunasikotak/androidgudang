@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2595" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/drawable/bggradient.xml" value="0.2595" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2595" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/layout/activity_dashboard.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/layout/activity_dashboard2.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/layout/activity_main.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/layout/app_bar_dashboard.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/layout/content_dashboard.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/layout/fragment_gallery.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/layout/fragment_home.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/layout/fragment_laporan.xml" value="0.2703804347826087" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/layout/fragment_slideshow.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/layout/fragment_stokmin.xml" value="0.2484375" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/layout/fragment_transaksi.xml" value="0.2703804347826087" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/layout/fragment_user.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/layout/nav_header_dashboard.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/menu/activity_main_drawer.xml" value="0.75" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/menu/dashboard.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/tjk/AndroidStudioProjects/GudangAni/app/src/main/res/menu/navigation_drawer.xml" value="0.33177083333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.soniaaulia.gudangani.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_barang"
+        android:name="com.soniaaulia.gudangani.ui.barang.BarangFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_barang" />
+
+    <fragment
+        android:id="@+id/nav_user"
+        android:name="com.soniaaulia.gudangani.ui.user.StokFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_user" />
+    <fragment
+        android:id="@+id/nav_transaksi"
+        android:name="com.soniaaulia.gudangani.ui.user.StokFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_user" />
+    <fragment
+        android:id="@+id/nav_laporan"
+        android:name="com.soniaaulia.gudangani.ui.user.StokFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_user" />
+    <fragment
+        android:id="@+id/nav_stokmin"
+        android:name="com.soniaaulia.gudangani.ui.stok.StokFragment"
+        android:label="fragment_stokmin" />
+</navigation>
